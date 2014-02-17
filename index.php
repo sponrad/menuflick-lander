@@ -1,111 +1,141 @@
 <?php include("header.php"); ?>
-    <div class="container">
-      <div class="row">
+<div class="container">
+  <div class="row">
 
-        <div class="col-md-4 phone-contain">
-          <div class="iphone">
-          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
+    <div class="col-md-4 phone-contain">
+      <div class="iphone">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
 
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner">
-              <div class="item active">
-                <img src="img/screen-1.png">
-              </div>
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="img/screen-1.png">
+            </div>
 
-              <div class="item">
-                <img src="img/screen-2.png">
-              </div>
+            <div class="item">
+              <img src="img/screen-2.png">
+            </div>
 
-              <div class="item">
-                <img src="img/screen-3.png">
-              </div>
+            <div class="item">
+              <img src="img/screen-3.png">
+            </div>
 
-              <div class="item">
-                <img src="img/screen-4.png">
-              </div>
+            <div class="item">
+              <img src="img/screen-4.png">
+            </div>
 
-              <div class="item">
-                <img src="img/screen-5.png">
-              </div>
+            <div class="item">
+              <img src="img/screen-5.png">
+            </div>
 
-              <div class="item">
-                <img src="img/screen-6.png">
-              </div>
-
+            <div class="item">
+              <img src="img/screen-6.png">
             </div>
 
           </div>
-          </div>
-        </div><!-- /end md-col-3 -->
 
-        <div class="col-md-8">
-          <div class="col-md-6 main-menu">
-            <ul class="list-inline">
+        </div>
+      </div>
+    </div><!-- /end md-col-3 -->
+
+    <div class="col-md-8">
+      <div class="col-md-6 main-menu">
+        <ul class="list-inline">
           
-              <!-- <li><a href="/faq">FAQ</a></li> -->
-              <li><a href="http://blog.menu-flick.com" target="_blank">Blog</a></li>
-              <li><a href="/learn-more">Learn More</a></li>
-	      <li><a href="http://www.iubenda.com/privacy-policy/766582" target="_blank" title="Privacy Policy">Privacy Policy</a></li>
-              <li><a href="http://www.twitter.com/menuflick" class="entypo" target="_blank">&#62217;</a></li>
-              <li><a href="http://www.facebook.com/menuflick" class="entypo" target="_blank">&#62220;</a></li>
-            </ul>
-          </div><!-- /end .col-md-2 -->
-          <img src="img/logo.png" class="logo">
-          <h1 class="desktop-headline">See & Vote for the best Restaurant Dishes, Anywhere.</h1>
+          <!-- <li><a href="/faq">FAQ</a></li> -->
+          <li><a href="http://blog.menu-flick.com" target="_blank">Blog</a></li>
+	  <li><a href="/login">Login</a></li>
+          <li><a href="/learn-more">Learn More</a></li>
+	  <li><a href="http://www.iubenda.com/privacy-policy/766582" target="_blank" title="Privacy Policy">Privacy Policy</a></li>
+          <li><a href="http://www.twitter.com/menuflick" class="entypo" target="_blank">&#62217;</a></li>
+          <li><a href="http://www.facebook.com/menuflick" class="entypo" target="_blank">&#62220;</a></li>
+        </ul>
+      </div><!-- /end .col-md-2 -->
+      <img src="img/logo.png" class="logo">
+      <h1 class="desktop-headline">See & Vote for the best Restaurant Dishes, Anywhere.</h1>
 
-          <a href="#"><img src="img/app-store-logo.png" class="app-store"></img></a>	<br>
-<br>
-Subscribe to our newsletter to be the first to find out when Menuflick is available for consumption
-<br><br>
-          <a href="#"><img src="img/app-store-logo.png" class="app-store-mobile"></img></a>
-          <p class="mobile-tag visible-xs visible-sm text-center">Eat with the Masses</p>
+      <a href="#"><img src="img/app-store-logo.png" class="app-store"></img></a>	<br>
+      <br>
+      Subscribe to our newsletter to be the first to find out when Menuflick is available for consumption
+      <br><br>
+      <a href="#"><img src="img/app-store-logo.png" class="app-store-mobile"></img></a>
+      <p class="mobile-tag visible-xs visible-sm text-center">Eat with the Masses</p>
 
-        </div><!-- /end .md-col-9 -->
+    </div><!-- /end .md-col-9 -->
 
-      </div><!-- /end .row -->
-    </div><!-- /end .container -->
-    <a class="down-arrow" href="#step-1"></a>
-    </div>
+  </div><!-- /end .row -->
+</div><!-- /end .container -->
+<a class="down-arrow" href="#step-1"></a>
+</div>
 
-    <section id="step-1" class="visible-xs visible-sm">
-      <a class="up-arrow" href="#top"></a>
-      <div class="container">
-        <h1>See & Vote for the best Restaurant Dishes, Anywhere.</h1>
+<section id="step-1" class="visible-xs visible-sm">
+  <a class="up-arrow" href="#top"></a>
+  <div class="container">
+    <h1>See & Vote for the best Restaurant Dishes, Anywhere.</h1>
+  </div>
+  <form id="signupform">
+    <h2>Signup</h2>
+    <input type="text" name="email" placeholder="Email Address" />
+    <input type="text" name="username" placeholder="Username" />
+    <input type="password" name="password" placeholder="Password" />
+    <input type="password" name="passwordtwo" placeholder="Repeat Password"/>
+    <input nane="signupbutton" id="signupbutton" type="submit" value="Signup" />
+  </form>
+</section>
+
+<section id="step-2">
+  <div class="container">
+    <div id='slider' class='swipe'>
+      <div class='swipe-wrap'>
+        <div><img src="img/screen-1.png"></div>
+        <div><img src="img/screen-2.png"></div>
+        <div><img src="img/screen-3.png"></div>
+        <div><img src="img/screen-4.png"></div>
+        <div><img src="img/screen-5.png"></div>
+        <div><img src="img/screen-6.png"></div>
       </div>
-    </section>
+    </div>
+  </div>
+</section>
 
-    <section id="step-2">
+<section id="step-3" class="visible-xs visible-sm">
+  <div class="container">
+    <h1 class="text-center">Get Hungry</h1>
+    <a href="#"><img src="img/app-store-logo-mobile.jpg" class="app-store-mobile"></img></a>
+  </div>
+  <footer class="mobile-footer">
     <div class="container">
-      <div id='slider' class='swipe'>
-        <div class='swipe-wrap'>
-          <div><img src="img/screen-1.png"></div>
-          <div><img src="img/screen-2.png"></div>
-          <div><img src="img/screen-3.png"></div>
-          <div><img src="img/screen-4.png"></div>
-          <div><img src="img/screen-5.png"></div>
-          <div><img src="img/screen-6.png"></div>
-        </div>
+      <h2 class="text-center">Subscribe to Our Mailing List:</h2>
+      <div id="mc_embed_signup">
+        <form action="http://menuflick.us3.list-manage.com/subscribe/post?u=a47d2e32740692f0f327411f4&id=a24988fd76" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <input type="email" class="form-control" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
+        </form>
       </div>
     </div>
-    </section>
+  </footer>
+</section>
 
-    <section id="step-3" class="visible-xs visible-sm">
-      <div class="container">
-        <h1 class="text-center">Get Hungry</h1>
-        <a href="#"><img src="img/app-store-logo-mobile.jpg" class="app-store-mobile"></img></a>
-      </div>
-      <footer class="mobile-footer">
-        <div class="container">
-          <h2 class="text-center">Subscribe to Our Mailing List:</h2>
-        <div id="mc_embed_signup">
-            <form action="http://menuflick.us3.list-manage.com/subscribe/post?u=a47d2e32740692f0f327411f4&id=a24988fd76" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <input type="email" class="form-control" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
-            </form>
-        </div>
-        </div>
-        </footer>
-    </section>
+<script>
+$(document).ready( function(){
+   $("#signupbutton").click( function(e){
+     e.preventDefault();
+     formdata = $("#signupform").serialize();
+     $.post('http://mfbackend.appspot.com/json/signup',
+	    formdata,
+	    function(returndata){
+	 console.log(returndata);
+	 if returndata.response = 1 {
+	   //successful signup	   
+	   }
+	 else {
+	   //unsuccessful signup
+	   //message
+	 }
+	 });
+     });
+ });
+</script>
 
 <?php include("footer.php"); ?>

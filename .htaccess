@@ -2,3 +2,11 @@ RewriteEngine On
 RewriteBase /
 RewriteRule ^faq$ faq.php
 RewriteRule ^learn-more$ learn.php
+
+RewriteRule ^feed$ feed.php
+RewriteRule ^login$ login.php
+RewriteRule ^logout$ logout.php
+RewriteRule ^signup$ signup.php
+RewriteRule ^vote$ vote.php
+RewriteRule ^profile$ profile.php
+RewriteRule ^$ index.php
