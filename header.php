@@ -23,10 +23,10 @@
 	<a href="/logout" id="logoutLink">Logout</a>
       <?php } else { ?>
 	<a href="/login" id="loginLink">Login</a>
-	<div id="loginDiv" style="display: none; float: left;">
+	<div id="loginDiv" style="display: none; position: absolute;">
 	  <form id="loginForm">
 	    <input type="text" name="username" placeholder="username" />
-	    <input type="password" name="password" placeholder="password" />
+	    <input type="password" name="password" placeholder="password" /></br>
 	    <input type="submit" id="loginButton" value="Login" />
 	  </form>
 	</div>
