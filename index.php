@@ -126,14 +126,14 @@ $(document).ready( function(){
 	    formdata,
 	    function(returndata){
 	 console.log(returndata);
-	 if returndata.response = 1 {
+	 if returndata.response == 1 {
 	   //successful signup	   
 	   }
 	 else {
 	   //unsuccessful signup
 	   //message
 	 }
-	 });
+	 }, "json");
      });
  });
 </script>

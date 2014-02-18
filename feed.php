@@ -1,5 +1,4 @@
 <?php include("header.php"); ?>
-<h1>Feed</h1>
 <?php
 
 ?>
