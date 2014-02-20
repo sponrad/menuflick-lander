@@ -1,13 +1,9 @@
 <?php include("header.php"); ?>
-<?php
-
-?>
 <div class="container">
   <div class="row">
     <div class="col-md-4 phone-contain">
-      <h1>Feed</h1>
-      <!--  <button id="voteButton">Vote</button> --> 
-      <button id="menuButton">Menu</button>
+      <h1>Nearby Restaurants</h1>
+
     </div>
   </div>
 </div>
