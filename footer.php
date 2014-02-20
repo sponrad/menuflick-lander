@@ -38,12 +38,9 @@
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
-<script src="js/swipe.js"></script>
-<script src="js/script.js"></script>
 
 <script>
  $(document).ready( function(){
-   console.log("hello ready");
    $("#loginLink").click( function(e){     
      e.preventDefault();
      $("#loginDiv").toggle();
