@@ -34,18 +34,19 @@ var lng=0;
        location: lat+","+lng, 
        sensor: "false", 
        types: "cafe|restaurant|bar|bakery",
-       rankby: "distance"
+       rankby: "distance",
+//       callback: "mysonpfunction"
      };
 
      $.ajax({
        url: 'https://maps.googleapis.com/maps/api/place/nearbysearch/json',
        data: dataToSend, 
-       dataType: 'jsonp',
-       jsonp: 'mysonpfunction',
        type: 'GET',
-       async: 'true',
+       dataType: 'jsonp',
+//       jsonp: 'mysonpfunction',
+       async: 'true',       
        success: function(data){
-	 //	 alert("done");
+	 alert("done");
        }
      });
    }
