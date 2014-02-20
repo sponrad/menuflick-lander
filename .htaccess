@@ -9,4 +9,6 @@ RewriteRule ^logout$ logout.php
 RewriteRule ^signup$ signup.php
 RewriteRule ^vote$ vote.php
 RewriteRule ^profile$ profile.php
+RewriteRule ^restaurants$ restaurants.php
+RewriteRule ^items$ items.php
 RewriteRule ^$ index.php
