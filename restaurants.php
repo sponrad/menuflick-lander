@@ -23,38 +23,33 @@ var lng=0;
        { enableHighAccuracy: true, timeout: timeoutVal, maximumAge: 0 }
      );
    }
-
+   console.log("one");
    function displayPosition(position) {
      //alert("Latitude: " + position.coords.latitude + ", Longitude: " + position.coords.longitude);
      lat = position.coords.latitude;
      lng = position.coords.longitude;
+
      //hit google search api
      dataToSend = {
-       key: "AIzaSyD82p3cZfbO7xQthU1aE9Nu3L89SaEhWbI", 
        location: lat+","+lng, 
-       sensor: "false", 
-       types: "cafe|restaurant|bar|bakery",
-       rankby: "distance",
+//       key: "AIzaSyD82p3cZfbO7xQthU1aE9Nu3L89SaEhWbI", 
+//       sensor: "false", 
+//       types: "cafe|restaurant|bar|bakery",
+//       rankby: "distance",
 //       callback: "mysonpfunction"
      };
 
+     console.log("before_ajax");
+
      $.ajax({
-       url: 'https://maps.googleapis.com/maps/api/place/nearbysearch/json',
+       url: '/searchapi.php',
        data: dataToSend, 
        type: 'GET',
-       dataType: 'jsonp',
-//       jsonp: 'mysonpfunction',
        async: 'true',       
        success: function(data){
-	 alert("done");
+	 console.log("before data spit");
+	 console.log(data);
        }
-     });
-   }
-
-   function myjsonpfunction(data){
-     alert(data.responseData.results) //showing results data
-     $.each(data.responseData.results,function(i,rows){
-       alert(rows.url); //showing  results url
      });
    }
 
