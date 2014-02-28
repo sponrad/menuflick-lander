@@ -6,16 +6,14 @@
   <div class="row">
     <div class="col-md-4 phone-contain">
       <h1>Feed</h1>
-      <a href="/restaurants">Nearby Restaurants</a>
       <!--  <button id="voteButton">Vote</button> --> 
-      <button id="menuButton">Menu</button>
+      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
     </div>
   </div>
 </div>
 
 <script>
-$(document).ready( function(){
-   
+ $(document).ready( function(){
  });
 </script>
 <?php include("footer.php"); ?>
