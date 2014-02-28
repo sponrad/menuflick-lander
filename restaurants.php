@@ -3,7 +3,9 @@
   <div class="row">
     <div class="col-md-4 phone-contain">
       <h1>Nearby Restaurants</h1>
-      <div id="restaurantsList"></div>
+      <div id="restaurantsList">
+	<div id="fakeEntry"></div>
+      </div>
     </div>
   </div>
 </div>
@@ -11,8 +13,10 @@
 <script>
 $(document).ready( function(){
 
-var lat=0;
-var lng=0;
+   var lat=0;
+   var lng=0;
+
+   var result= 0;
 
    //get location
    if (navigator.geolocation) {
@@ -32,26 +36,35 @@ var lng=0;
      //hit google search api
      dataToSend = {
        location: lat+","+lng, 
-//       key: "AIzaSyD82p3cZfbO7xQthU1aE9Nu3L89SaEhWbI", 
-//       sensor: "false", 
-//       types: "cafe|restaurant|bar|bakery",
-//       rankby: "distance",
-//       callback: "mysonpfunction"
      };
 
      console.log("before_ajax");
 
+     function restaurantEntry(data){
+       //given restaurant data return good html div
+       var html = "<div>";
+       html = html + data.name;
+       html = html + "</div>";
+       
+       return html;
+     }
+
      $.ajax({
        url: '/searchapi.php',
+       dataType: 'json',
        data: dataToSend, 
        type: 'GET',
-       async: 'true',       
        success: function(data){
 	 console.log("before data spit");
-	 console.log(data);
+	 console.log(data.results);
+	 
+	 for (var key in data.results){
+	   $("#fakeEntry").before( restaurantEntry( data.results[key] ) );
+	 }	
        }
      });
    }
+
 
    function displayError(error) {
      var errors = { 

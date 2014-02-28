@@ -30,6 +30,6 @@ function sendPostData($url){
 }
 
 //echo "ok";
-echo $url_send;
-echo " " . sendPostData($url_send);
+//echo $url_send;
+echo sendPostData($url_send);
 ?>
