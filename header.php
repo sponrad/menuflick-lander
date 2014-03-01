@@ -19,17 +19,22 @@
   </head>
   <body id="top">
     <div id="accountDiv" style="float: left;">
-      <?php if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { ?>
-	<a href="/logout" id="logoutLink">Logout</a>
+      <?php 
+      if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { 
+	$userId = $_SESSION['userId'];
+	$authToken = $_SESSION['authToken'];
+      ?>
+      <a href="/logout" id="logoutLink">Logout</a>
       <?php } else { ?>
-	<a href="/login" id="loginLink">Login</a>
-	<div id="loginDiv" style="display: none; position: absolute;">
-	  <form id="loginForm">
-	    <input type="text" name="username" placeholder="username" />
-	    <input type="password" name="password" placeholder="password" /></br>
-	    <input type="submit" id="loginButton" value="Login" />
-	  </form>
-	</div>
+      <a href="/login" id="loginLink">Login</a>
+      <div id="loginDiv" style="display: none; position: absolute;">
+	<form id="loginForm">
+	  <input type="text" name="username" placeholder="username" />
+	  <input type="password" name="password" placeholder="password" /></br>
+	  <input type="submit" id="loginButton" value="Login" />
+	</form>
+      </div>
       <?php } ?>
     </div>
+    
     

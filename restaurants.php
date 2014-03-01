@@ -38,14 +38,9 @@ $(document).ready( function(){
        location: lat+","+lng, 
      };
 
-     console.log("before_ajax");
-
      function restaurantEntry(data){
        //given restaurant data return good html div
-       var html = "<div>";
-       html = html + data.name;
-       html = html + "</div>";
-       
+       var html = "<a href='/items?restaurantname="+data.name+"&lat="+data.geometry.location.lat+"&lng="+data.geometry.location.lng+"'>" + data.name + "</a></br>";
        return html;
      }
 
@@ -55,16 +50,13 @@ $(document).ready( function(){
        data: dataToSend, 
        type: 'GET',
        success: function(data){
-	 console.log("before data spit");
-	 console.log(data.results);
-	 
+	 console.log(data);
 	 for (var key in data.results){
 	   $("#fakeEntry").before( restaurantEntry( data.results[key] ) );
 	 }	
        }
      });
    }
-
 
    function displayError(error) {
      var errors = { 
@@ -73,7 +65,7 @@ $(document).ready( function(){
        3: 'Request timeout'
      };
      alert("Error: " + errors[error.code]);
-   }
+   }   
   
  });
 </script>
