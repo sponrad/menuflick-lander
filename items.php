@@ -47,7 +47,7 @@ else{
 	<div id="fakeEntry"></div>
       </div> 
       <div>
-	<a href="/vote?restaurantid=<?= $restaurantId; ?>">Vote on a new dish</a>
+	<a href="/votenew?restaurantid=<?= $restaurantId; ?>">Vote on a new dish</a>
       </div>
     </div>
   </div>
@@ -86,9 +86,9 @@ else{
 	   html += data.items[key].name;
 	   html += "'>";
 	   html += data.items[key].name + ": " + data.items[key].rating;
-	   html += "</a>";
+	   html += "</a><br/>";
+	   $("#fakeEntry").before(html);
 	 }
-	 $("#fakeEntry").before(html);
        }
        
        else{

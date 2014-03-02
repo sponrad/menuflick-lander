@@ -8,6 +8,7 @@ RewriteRule ^login$ login.php
 RewriteRule ^logout$ logout.php
 RewriteRule ^signup$ signup.php
 RewriteRule ^vote$ vote.php
+RewriteRule ^votenew$ votenew.php
 RewriteRule ^profile$ profile.php
 RewriteRule ^restaurants$ restaurants.php
 RewriteRule ^items$ items.php
