@@ -6,8 +6,6 @@
   <div class="row">
     <div class="col-md-4 phone-contain">
       <h1>Feed</h1>
-      <!--  <button id="voteButton">Vote</button> --> 
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
       <div id="feedDiv">
 	<div id="fakeItem"></div>
       </div>
@@ -21,6 +19,21 @@
      userid: <?= $userId; ?>,
    };
 
+   function convertRating(rating){
+     switch(rating)
+     {
+       case 100:
+	 return "+"
+	 break;
+       case 50:
+	 return "/"
+	 break;
+       case 0:
+	 return "-"
+	 break;
+     }
+   }
+
    $.ajax({
      url: 'http://mfbackend.appspot.com/json/getfeed',
      dataType: 'json',
@@ -31,7 +44,9 @@
        if (data.response == 1){
 	 for (var key in data.feed_items){
 	   var html = "<div class='feedItem'>";
-	   html += "<a>"
+	   html += convertRating(data.feed_items[key].rating) + " ";
+	   html += "<b>" + data.feed_items[key].username + "</b><br>";
+	   html += " <a>" ;
 	   html += data.feed_items[key].item ;
 	   html += "</a> from <a href='/items?restaurantid="+ data.feed_items[key].restaurantid +"'>";
 	   html += data.feed_items[key].restaurant;	   
