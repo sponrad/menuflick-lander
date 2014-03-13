@@ -84,6 +84,8 @@ else{
 	   html += data.items[key].itemid;
 	   html += "&itemname=";
 	   html += data.items[key].name;
+	   html += "&restaurantname=";
+	   html += data.restaurantname;
 	   html += "'>";
 	   html += data.items[key].name + ": " + data.items[key].rating;
 	   html += "</a><br/>";

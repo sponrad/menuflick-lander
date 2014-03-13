@@ -14,13 +14,19 @@ if (isset($_GET['itemname'])){
 else{
   $itemName = NULL;
 }
+if (isset($_GET['restaurantname'])){
+  $restaurantName = $_GET['restaurantname'];
+}
+else{
+  $restaurantName = NULL;
+}
 
 ?>
 <?php include("header.php"); ?>
 
 <div class="container">
   <div class="row">
-    <div class="col-md-8 phone-contain">
+    <div class="col-md-12 phone-contain">
       <a href="/items?restaurantid=<?= $restaurantId; ?>">Back to Menu</a>      
       <h1>Vote<?= " on ".$itemName; ?></h1>
 
@@ -47,8 +53,9 @@ else{
 	    Vote Down
 	  </label>
 	</div>
-
-	<textarea placeholder="Write something if you must" name="description" id="description"></textarea>
+	<div id="promptDiv" style="font-size: 22px;"></div>
+	<!-- 	<textarea placeholder="Write something if you must" name="description" id="description"></textarea> 
+	 -->
 	<br>
 	<input type="submit" id="voteButton" value="Vote" />
       </form>
@@ -59,6 +66,31 @@ else{
 <script>
 
 $(document).ready( function(){
+
+   function parsePrompt(data){
+     //takes the prompt and returns an html string
+     var html = "" + data.prompt;
+     html = html.replace("{{input}}", "<input type='text' name='input' style='display: inline;'>");
+     html = html.replace("{{input2}}", "<input type='text' name='input2' style='display: inline;'>");
+     html = html.replace("{{restaurant}}", "<span style='color: red;'><?=$restaurantName?></span>");
+     html = html.replace("{{dish}}", "<span style='color: red;'><?=$itemName?></span>");
+     html = html + "<input type='hidden' name='promptid' value='"+data.promptid+"'/>";
+
+     return html;
+   }
+
+   $.ajax({
+     url: "http://mfbackend.appspot.com/json/getprompt",
+     dataType: "json",
+     type: "GET",
+     success: function(data){
+       if (data.response == 1){
+	 //console.log(data);
+	 $("#promptDiv").html( parsePrompt(data) );
+       }
+     }
+   });
+
    $("#voteButton").click( function(e){
      e.preventDefault();
      dataToSend = $("#voteForm").serialize();

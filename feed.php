@@ -58,6 +58,8 @@
 	     html += data.feed_items[key].description;
 	     html += "</b>";
 	   }
+	   html += data.feed_items[key].prompt;
+	   html += data.feed_items[key].input;
 	   html += "</div><br>";
 	   $("#fakeItem").after( html );
 	 }	
