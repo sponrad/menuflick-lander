@@ -73,7 +73,7 @@ $(document).ready( function(){
      function restaurantEntry(data){
        //given restaurant data return good html div
        var distance = haversine( lat, lng, data.geometry.location.lat, data.geometry.location.lng);
-       var html = "<a href='/items?restaurantname="+data.name+"&lat="+data.geometry.location.lat+"&lng="+data.geometry.location.lng+"'>" + data.name + "</a> ";
+       var html = "<a href='/items?restaurantname="+encodeURIComponent(data.name).replace(/[!'()*]/g, escape)+"&lat="+data.geometry.location.lat+"&lng="+data.geometry.location.lng+"'>" + data.name + "</a> ";
        var html = html + "<span id='distance'>"+distance+"</span>";
        var html = html + "</br>";
        return html;

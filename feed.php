@@ -40,7 +40,7 @@
 		 .replace("{{input}}", "<span style='display: inline; color:red;'>"+data.input+"</span>")
 		 .replace("{{restaurant}}", "<a style='display: inline;' href='/items?restaurantid="+ data.restaurantid +"'>"+data.restaurant+"</a>")
 		 .replace("{{dish}}", "<a style='display: inline;'>"+data.item+"</a>")
-		 .replace("{{input2}}", "<span type='text' name='input2' style='display: inline;'>"+data.input2+"</span>");
+		 .replace("{{input2}}", "<span type='text' name='input2' style='display: inline; color: red;'>"+data.input2+"</span>");
 
      html += "</div><br>";
 
