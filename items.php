@@ -47,7 +47,7 @@ else{
 	<div id="fakeEntry"></div>
       </div> 
       <div>
-	<a href="/votenew?restaurantid=<?= $restaurantId; ?>">Vote on a new dish</a>
+	<a id="newDish" >Vote on a new dish</a>
       </div>
     </div>
   </div>
@@ -73,6 +73,7 @@ else{
        console.log(data);
 
        $("#restaurantName").html( data.restaurantname );
+       $("#newDish").attr("href", "/votenew?restaurantid="+restaurantId+"&restaurantname="+data.restaurantname);
 
        if (data.items.length > 0){
 	 for (var key in data.items){
