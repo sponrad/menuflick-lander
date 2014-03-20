@@ -15,10 +15,6 @@
 
 <script>
  $(document).ready( function(){
-   var dataToSend = {
-     userid: <?= $userId; ?>,
-   };
-
    function convertRating(rating){
      switch(rating)
      {
@@ -33,6 +29,10 @@
 	 break;
      }
    }
+
+   var dataToSend = {
+     userid: <?= $userId; ?>,
+   };
 
    $.ajax({
      url: 'http://mfbackend.appspot.com/json/getfeed',

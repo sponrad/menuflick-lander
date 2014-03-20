@@ -18,6 +18,38 @@ $(document).ready( function(){
 
    var result= 0;
 
+   function haversine(lat1, lon1, lat2, lon2){
+     Number.prototype.toRad = function() {
+       return this * Math.PI / 180;
+     }
+
+     var R = 6371; // km 
+     //has a problem with the .toRad() method below.
+     var x1 = lat2-lat1;
+     var dLat = x1.toRad();  
+     var x2 = lon2-lon1;
+     var dLon = x2.toRad();  
+     var a = Math.sin(dLat/2) * Math.sin(dLat/2) + 
+                      Math.cos(lat1.toRad()) * Math.cos(lat2.toRad()) * 
+     Math.sin(dLon/2) * Math.sin(dLon/2);  
+     var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+     var d = R * c;      
+
+     d = d * 0.621371 * 5280;  //to mi to feet
+     unit = "miles";
+
+     if (d < 1000){  //return feet
+       d = Math.round(d);
+       d = d + " ft.";
+     }
+     else{ // return miles
+       d = (1 / 100 * Math.round(d / 5280*100)).toFixed(1);
+       d = d + " mi."
+     }
+     
+     return d;
+   }
+
    //get location
    if (navigator.geolocation) {
      var timeoutVal = 10 * 1000 * 1000;
@@ -40,7 +72,10 @@ $(document).ready( function(){
 
      function restaurantEntry(data){
        //given restaurant data return good html div
-       var html = "<a href='/items?restaurantname="+data.name+"&lat="+data.geometry.location.lat+"&lng="+data.geometry.location.lng+"'>" + data.name + "</a></br>";
+       var distance = haversine( lat, lng, data.geometry.location.lat, data.geometry.location.lng);
+       var html = "<a href='/items?restaurantname="+data.name+"&lat="+data.geometry.location.lat+"&lng="+data.geometry.location.lng+"'>" + data.name + "</a> ";
+       var html = html + "<span id='distance'>"+distance+"</span>";
+       var html = html + "</br>";
        return html;
      }
 
