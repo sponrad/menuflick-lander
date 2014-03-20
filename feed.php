@@ -30,6 +30,23 @@
      }
    }
 
+   function parsePrompt(data){
+     var html = "<div class='feedItem'>";
+     console.log(data);
+     html += convertRating(data.rating) + " ";
+     html += "<b>" + data.username + "</b><br>";
+     
+     html += data.prompt
+		 .replace("{{input}}", "<span style='display: inline; color:red;'>"+data.input+"</span>")
+		 .replace("{{restaurant}}", "<a style='display: inline;' href='/items?restaurantid="+ data.restaurantid +"'>"+data.restaurant+"</a>")
+		 .replace("{{dish}}", "<a style='display: inline;'>"+data.item+"</a>")
+		 .replace("{{input2}}", "<span type='text' name='input2' style='display: inline;'>"+data.input2+"</span>");
+
+     html += "</div><br>";
+
+     return html;
+   }
+
    var dataToSend = {
      userid: <?= $userId; ?>,
    };
@@ -43,24 +60,7 @@
        console.log(data);
        if (data.response == 1){
 	 for (var key in data.feed_items){
-	   var html = "<div class='feedItem'>";
-	   html += convertRating(data.feed_items[key].rating) + " ";
-	   html += "<b>" + data.feed_items[key].username + "</b><br>";
-	   html += " <a>" ;
-	   html += data.feed_items[key].item ;
-	   html += "</a> from <a href='/items?restaurantid="+ data.feed_items[key].restaurantid +"'>";
-	   html += data.feed_items[key].restaurant;	   
-	   html += "</a>";
-	   if (data.feed_items[key].description == null){
-	   }
-	   else {
-	     html += "<br><b>";
-	     html += data.feed_items[key].description;
-	     html += "</b>";
-	   }
-	   html += data.feed_items[key].prompt;
-	   html += data.feed_items[key].input;
-	   html += "</div><br>";
+	   var html = parsePrompt(data.feed_items[key]);
 	   $("#fakeItem").after( html );
 	 }	
        }
