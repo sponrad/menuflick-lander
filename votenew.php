@@ -70,20 +70,17 @@ else{
        success: function(data){
 	 //do something
 	 if (data != ""){
-	   var c = confirm("Continue to vote: " + data);
-	   if (c == true){
-	     var link="";
-	     link += "/vote?restaurantid=";
-	     link += "" + restaurantId;
-	     link += "&itemid=";
-	     link += "" + data;
-	     link += "&itemname=";
-	     link += "" + $("#name").val();
-	     link += "&restaurantname=";
-	     link += "" + restaurantName;
+	   var link="";
+	   link += "/vote?restaurantid=";
+	   link += "" + restaurantId;
+	   link += "&itemid=";
+	   link += "" + data;
+	   link += "&itemname=";
+	   link += "" + $("#name").val();
+	   link += "&restaurantname=";
+	   link += "" + restaurantName;
 
-	     window.location.href = link;
-	   }
+	   window.location.href = link;
 	 }
        }
      });

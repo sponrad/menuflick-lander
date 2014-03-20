@@ -4,7 +4,7 @@
 ?>
 <div class="container">
   <div class="row">
-    <div class="col-md-4 phone-contain">
+    <div class="col-md-6 phone-contain">
       <h1>Feed</h1>
       <div id="feedDiv">
 	<div id="fakeItem"></div>
