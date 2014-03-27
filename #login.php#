@@ -1,0 +1,43 @@
+<?php 
+// just a redirect file
+//receive parameters, set session variables, redirect to feed, or back t o
+session_start();
+
+echo "hello";
+
+//form, username and password is sent
+$data = array(
+  "username" => $_POST['username'],
+  "password" => $_POST['password'],
+);
+$url_send ="https://mfbackend.appspot.com/json/login";
+
+function sendPostData($url, $post){
+  $ch = curl_init();
+  curl_setopt($ch, CURLOPT_URL, $url);
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+  curl_setopt($ch, CURLOPT_POSTFIELDS,$post);
+  curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+  curl_setopt($ch, CURLOPT_VERBOSE, 1);
+  $result = curl_exec($ch);
+  curl_close($ch);
+  return $result;
+}
+
+
+echo sendPostData($url_send, json_encode($data));
+//$data =  json_decode( sendPostData($url_send, json_encode($data)), true);
+
+//echo $data['response'];
+
+if ($data['response'] == 1){
+  $_SESSION["authToken"] = $data['auth_token'];
+  $_SESSION["userId"] = $data['user_dict']['user_id'];
+
+//  header("Location: http://www.menuflick.com/feed");
+}
+else {
+//  header("Location: http://www.menuflick.com/");
+}
+
+?>

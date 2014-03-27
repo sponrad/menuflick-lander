@@ -14,7 +14,10 @@ else {
 <div class="container">
   <div class="row">
     <div class="col-md-8 phone-contain">
-      <h1 id="userName"></h1>
+      <h1 id="userName">Profile</h1>
+      <p>Following: <span id="following"></span></p>
+      <p>Followers: <span id="followers"></span></p>
+      <p>Reviews: <span id="reviews"></span></p>
     </div>
   </div>
 </div>
@@ -37,7 +40,13 @@ else {
      type: "GET",
      success: function(data){
        console.log(data);
-
+       if (data.response == 1){
+	 $("#userName").html( data.username );
+	 $("#following").html( data.following );
+	 $("#followers").html( data.followers );
+	 $("#reviews").html( data.reviewcount );
+	 
+       }
      }
    });
 

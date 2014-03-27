@@ -26,17 +26,17 @@
       ?>
       <a href="/logout" id="logoutLink">Logout</a> <br>
       <button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button>
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
+      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button><br>
       <?php } else { ?>
-      <a href="/login" id="loginLink">Login</a>
-      <div id="loginDiv" style="display: none; position: absolute;">
-	<form id="loginForm">
+      <div id="loginDiv">
+	<form id="loginForm" action="/login" method="post">
 	  <input type="text" name="username" placeholder="username" />
 	  <input type="password" name="password" placeholder="password" /></br>
 	  <input type="submit" id="loginButton" value="Login" />
 	</form>
-      </div>
+      </div><br>
       <?php } ?>
+      <div style="clear: both;"></div>
     </div>
     
     

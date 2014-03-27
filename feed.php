@@ -34,7 +34,7 @@
      var html = "<div class='feedItem'>";
      console.log(data);
      html += convertRating(data.rating) + " ";
-     html += "<b>" + data.username + "</b><br>";
+     html += "<a class='profilelink' href='/profile?profileid="+data.userid+"'>" + data.username + "</a><br>";
      
      html += data.prompt
 		 .replace("{{input}}", "<span style='display: inline; color:red;'>"+data.input+"</span>")

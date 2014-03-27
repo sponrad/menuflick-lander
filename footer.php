@@ -5,17 +5,9 @@
     </div>
     <div class="col-md-9">
       <div class="offset-left">
-	<h2>Subscribe to Our Mailing List:</h2>
 	
-	<div id="mc_embed_signup">
-	  <form action="http://menuflick.us3.list-manage.com/subscribe/post?u=a47d2e32740692f0f327411f4&amp;id=a24988fd76" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	    <input type="email" class="form-control" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-	    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
-	  </form>
-	  
-	</div>
       </div>
-    </div><!-- /end .col-md5 -->
+    </div> <!-- /end .col-md5 -->
     
     <!--End mc_embed_signup-->
     
@@ -45,7 +37,8 @@
      e.preventDefault();
      $("#loginDiv").toggle();
    });
-   
+
+/*   
    $("#loginButton").click( function(e){
      e.preventDefault();
      formdata = $("#loginForm").serialize();
@@ -62,6 +55,7 @@
 	 }
        }, "json");
    });
+   */
  });
 </script>
 

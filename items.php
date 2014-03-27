@@ -73,7 +73,7 @@ else{
        console.log(data);
 
        $("#restaurantName").html( data.restaurantname );
-       $("#newDish").attr("href", "/votenew?restaurantid="+restaurantId+"&restaurantname="+data.restaurantname);
+       $("#newDish").attr("href", "/votenew?restaurantid="+restaurantId+"&restaurantname="+encodeURIComponent(data.restaurantname).replace(/[!'()*]/g, escape));
 
        if (data.items.length > 0){
 	 for (var key in data.items){
@@ -86,7 +86,7 @@ else{
 	   html += "&itemname=";
 	   html += data.items[key].name;
 	   html += "&restaurantname=";
-	   html += data.restaurantname;
+	   html += encodeURIComponent(data.restaurantname).replace(/[!'()*]/g, escape);
 	   html += "'>";
 	   html += data.items[key].name + ": " + data.items[key].rating;
 	   html += "</a><br/>";

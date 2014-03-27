@@ -148,9 +148,11 @@ input[type="email"] {
   margin-right: 3%;
 }
 
+/*
 input[type="submit"] {
   float: left;
 }
+*/
 
 .offset-left {
   position: relative;
@@ -195,14 +197,14 @@ input[type="submit"] {
 }
 
 @media (max-width: 991px) {
-  body {
+/*  body {
     padding-top: 110px;
   }
   footer {
     position: absolute;
     top: 0;
     bottom: auto;
-  }
+  } */
   footer h2 {
     float: none;
     font-size: 18px;
@@ -210,9 +212,9 @@ input[type="submit"] {
     position: relative;
     left: 4px;
   }
-  input[type="submit"] {
+/*  input[type="submit"] {
     display: none !important;
-  }
+  }*/
   input[type="email"] {
     width: 100%;
   }
@@ -287,12 +289,12 @@ input[type="submit"] {
     margin-top: 100px;
     margin-bottom: 80px;
   }
-  .mobile-footer {
+/*  .mobile-footer {
     position: absolute;
     top: auto;
     bottom: 0;
     margin-bottom: -140px;
-  }
+  } */
 }
 
 .main-menu {
