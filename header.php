@@ -24,7 +24,7 @@
 	$userId = $_SESSION['userId'];
 	$authToken = $_SESSION['authToken'];
       ?>
-      <a href="/logout" id="logoutLink">Logout</a>
+      <button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button>
       <button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button>
       <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
       <button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button>
