@@ -41,7 +41,6 @@ else{
 <div class="container">
   <div class="row">
     <div class="col-md-8 phone-contain">
-      <a href="/restaurants">Back</a>
       <h1 id="restaurantName"></h1>
       <div id="itemsList">
 	<div id="fakeEntry"></div>

@@ -27,7 +27,6 @@ else{
 <div class="container">
   <div class="row">
     <div class="col-md-8 phone-contain">
-      <a href="/items?restaurantid=<?= $restaurantId; ?>">Back to Menu</a>      
       <h1>Add Item Details and Vote</h1>
 
       <form id="addItemForm">
