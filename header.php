@@ -18,20 +18,21 @@
 
   </head>
   <body id="top">
-    <div id="accountDiv" style="float: left;">
+    <div class="container" style="padding: 5px 0px 0px 0px;">
       <?php 
       if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { 
 	$userId = $_SESSION['userId'];
 	$authToken = $_SESSION['authToken'];
       ?>
-      <a href="/logout" id="logoutLink">Logout</a> <br>
+      <a href="/logout" id="logoutLink">Logout</a>
       <button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button>
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button><br>
+      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
+      <button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button>
       <?php } else { ?>
       <div id="loginDiv">
 	<form id="loginForm" action="/login" method="post">
 	  <input type="text" name="username" placeholder="username" />
-	  <input type="password" name="password" placeholder="password" /></br>
+	  <input type="password" name="password" placeholder="password" />
 	  <input type="submit" id="loginButton" value="Login" />
 	</form>
       </div><br>

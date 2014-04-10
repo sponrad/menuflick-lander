@@ -1,19 +1,3 @@
-<footer>
-  <div class="container">
-    <div class="col-md-3">
-      
-    </div>
-    <div class="col-md-9">
-      <div class="offset-left">
-	
-      </div>
-    </div> <!-- /end .col-md5 -->
-    
-    <!--End mc_embed_signup-->
-    
-    
-  </div><!-- /end .container -->
-</footer>
 
 <script>
  

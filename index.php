@@ -40,28 +40,39 @@
     </div><!-- /end md-col-3 -->
 
     <div class="col-md-8">
-      <div class="col-md-6 main-menu">
-        <ul class="list-inline">
-          
-          <!-- <li><a href="/faq">FAQ</a></li> -->
-          <li><a href="http://blog.menu-flick.com" target="_blank">Blog</a></li>
-	  <li><a href="/login">Login</a></li>
-          <li><a href="/learn-more">Learn More</a></li>
-	  <li><a href="http://www.iubenda.com/privacy-policy/766582" target="_blank" title="Privacy Policy">Privacy Policy</a></li>
-          <li><a href="http://www.twitter.com/menuflick" class="entypo" target="_blank">&#62217;</a></li>
-          <li><a href="http://www.facebook.com/menuflick" class="entypo" target="_blank">&#62220;</a></li>
-        </ul>
-      </div><!-- /end .col-md-2 -->
       <img src="img/logo.png" class="logo">
       <h1 class="desktop-headline">See & Vote for the best Restaurant Dishes, Anywhere.</h1>
 
       <a href="#"><img src="img/app-store-logo.png" class="app-store"></img></a>	<br>
       <br>
-      Subscribe to our newsletter to be the first to find out when Menuflick is available for consumption
+      Menuflick is currently in alpha phase, try it out by signing up below.
       <br><br>
       <a href="#"><img src="img/app-store-logo.png" class="app-store-mobile"></img></a>
-      <p class="mobile-tag visible-xs visible-sm text-center">Eat with the Masses</p>
 
+    </div><!-- /end .md-col-9 -->
+
+    <div class="col-md-8">
+      <form id="signupform" role="form">
+	<div class="form-group">
+	  <label for="email">Email Address</label>
+	  <input class="form-control" type="text" name="email" placeholder="Email Address" />
+	</div>
+	<div class="form-group">
+	  <label for="username">Username</label>
+	  <input class="form-control" type="text" name="username" placeholder="Username" />
+	</div>
+	<div class="form-group">
+	  <label for="password">Password</label>
+	  <input class="form-control" type="password" name="password" placeholder="Password" />
+	</div>
+	<div class="form-group">
+	  <label for="passwordtwo">Password Again</label>
+	  <input class="form-control" type="password" name="passwordtwo" placeholder="Repeat Password"/>
+	</div>
+	<div class="form-group">
+	  <input class="form-control" name="signupbutton" id="signupbutton" type="submit" value="Signup" />
+	</div>
+      </form>
     </div><!-- /end .md-col-9 -->
 
   </div><!-- /end .row -->
@@ -69,19 +80,8 @@
 <a class="down-arrow" href="#step-1"></a>
 </div>
 
-<section id="step-1" class="visible-xs visible-sm">
-  <a class="up-arrow" href="#top"></a>
-  <div class="container">
-    <h1>See & Vote for the best Restaurant Dishes, Anywhere.</h1>
-  </div>
-  <form id="signupform">
-    <h2>Signup</h2>
-    <input type="text" name="email" placeholder="Email Address" />
-    <input type="text" name="username" placeholder="Username" />
-    <input type="password" name="password" placeholder="Password" />
-    <input type="password" name="passwordtwo" placeholder="Repeat Password"/>
-    <input nane="signupbutton" id="signupbutton" type="submit" value="Signup" />
-  </form>
+<section id="step-1">
+
 </section>
 
 <section id="step-2">
@@ -100,10 +100,6 @@
 </section>
 
 <section id="step-3" class="visible-xs visible-sm">
-  <div class="container">
-    <h1 class="text-center">Get Hungry</h1>
-    <a href="#"><img src="img/app-store-logo-mobile.jpg" class="app-store-mobile"></img></a>
-  </div>
   <footer class="mobile-footer">
     <div class="container">
       <h2 class="text-center">Subscribe to Our Mailing List:</h2>
@@ -120,7 +116,7 @@
 <script src="js/swipe.js"></script>
 <script src="js/script.js"></script>
 <script>
-$(document).ready( function(){
+ $(document).ready( function(){
    $("#signupbutton").click( function(e){
      e.preventDefault();
      formdata = $("#signupform").serialize();
@@ -129,14 +125,13 @@ $(document).ready( function(){
 	    function(returndata){
 	 console.log(returndata);
 	 if returndata.response == 1 {
-	   //successful signup	   
-	   }
-	 else {
-	   //unsuccessful signup
-	   //message
+	   alert("Successful signup, continue to login");
 	 }
-	 }, "json");
-     });
+	 else {
+	   alert("Something went wrong");
+	 }
+       }, "json");
+   });
  });
 </script>
 
