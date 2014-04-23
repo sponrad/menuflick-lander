@@ -17,27 +17,5 @@
     <![endif]-->
 
   </head>
-  <body id="top">
-    <div class="container" style="padding: 5px 0px 0px 0px;">
-      <?php 
-      if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { 
-	$userId = $_SESSION['userId'];
-	$authToken = $_SESSION['authToken'];
-      ?>
-      <button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button>
-      <button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button>
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button>
-      <?php } else { ?>
-      <div id="loginDiv">
-	<form id="loginForm" action="/login" method="post">
-	  <input type="text" name="username" placeholder="username" />
-	  <input type="password" name="password" placeholder="password" />
-	  <input type="submit" id="loginButton" value="Login" />
-	</form>
-      </div><br>
-      <?php } ?>
-      <div style="clear: both;"></div>
-    </div>
-    
-    
+  <body id="top" class="<?= basename($_SERVER['PHP_SELF'], ".php")?>">
+
