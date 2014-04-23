@@ -83,7 +83,7 @@ else{
 	   html += "&itemid=";
 	   html += data.items[key].itemid;
 	   html += "&itemname=";
-	   html += data.items[key].name;
+	   html += encodeURIComponent(data.items[key].name).replace(/[!'()*]/g, escape);
 	   html += "&restaurantname=";
 	   html += encodeURIComponent(data.restaurantname).replace(/[!'()*]/g, escape);
 	   html += "'>";
