@@ -22,6 +22,7 @@ else {
       <p>Reviews: <span id="reviews"></span></p>
 
       <div id="reviewDiv">
+	<h2>Reviews</h2><br><br>
 	<div id="fakeReview"></div>
       </div>
 
