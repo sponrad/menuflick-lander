@@ -72,14 +72,17 @@ else{
 
 $(document).ready( function(){
 
+   item = "<?= $itemName; ?>";
+   restaurant = "<?= $restaurantName; ?>";
+
    $.ajax({
      url: "http://mfbackend.appspot.com/json/getprompt",
      dataType: "json",
      type: "GET",
-     success: function(data){
-       if (data.response == 1){
-	 //console.log(data);
-	 $("#promptDiv").html( parseVotePrompt(data) );
+     success: function(promptdata){
+       if (promptdata.response == 1){
+	 console.log(promptdata);
+	 $("#promptDiv").html(parseVotePrompt(promptdata, item, restaurant));
        }
      }
    });

@@ -15,7 +15,6 @@ function convertRating(rating){
 
 function parsePrompt(data){
     var html = "<div class='reviewItem'>";
-    console.log(data);
     html += convertRating(data.rating) + " ";
     html += "<a class='profilelink' href='/profile?profileid="+data.userid+"'>" + data.username + "</a><br>";
     
@@ -30,13 +29,13 @@ function parsePrompt(data){
     return html;
 }
 
-function parseVotePrompt(data){
+function parseVotePrompt(data, item, restaurant){
     //takes the prompt and returns an html string
     var html = "" + data.prompt;
     html = html.replace("{{input}}", "<input type='text' name='input' style='display: inline;'>");
     html = html.replace("{{input2}}", "<input type='text' name='input2' style='display: inline;'>");
-    html = html.replace("{{restaurant}}", "<span style='color: red;'><?=$restaurantName?></span>");
-    html = html.replace("{{dish}}", "<span style='color: red;'><?=$itemName?></span>");
+    html = html.replace("{{restaurant}}", "<span style='color: red;'>"+restaurant+"</span>");
+    html = html.replace("{{dish}}", "<span style='color: red;'>"+item+"</span>");
     html = html + "<input type='hidden' name='promptid' value='"+data.promptid+"'/>";
 
     return html;
