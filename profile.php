@@ -15,20 +15,22 @@ else {
   <div class="row">
     <div class="col-md-8 phone-contain">
       <h1 id="userName">Profile</h1>
-      <div id="isfollowing"></div>
+      <div id="profileList">
+        <div id="isfollowing"></div>
 
-      <p>Following: <span id="following"></span></p>
-      <p>Followers: <span id="followers"></span></p>
-      <p>Reviews: <span id="reviews"></span></p>
+        <p>Following: <span id="following"></span></p>
+        <p>Followers: <span id="followers"></span></p>
+        <p>Reviews: <span id="reviews"></span></p>
 
-      <div id="reviewDiv">
-	<h2>Reviews</h2><br><br>
-	<div id="fakeReview"></div>
-      </div>
+        <div id="reviewDiv">
+          <h2>Reviews</h2><br><br>
+          <div id="fakeReview"></div>
+        </div>
 
-    </div>
-  </div>
-</div>
+    </div><!-- /end .panel -->
+    </div><!-- /end .col-md-8.phone-container -->
+  </div><!-- /end .row -->
+</div><!-- /end .container -->
 
 <script>
  $(document).ready( function(){

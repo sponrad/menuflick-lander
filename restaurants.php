@@ -4,7 +4,7 @@
     <div class="col-md-4 phone-contain">
       <h1>Nearby Restaurants</h1>
       <div id="restaurantsList">
-	<div id="fakeEntry"></div>
+	<div id="fakeEntry">Loading&hellip;</div>
       </div>
     </div>
   </div>
@@ -75,7 +75,6 @@ $(document).ready( function(){
        var distance = haversine( lat, lng, data.geometry.location.lat, data.geometry.location.lng);
        var html = "<a href='/items?restaurantname="+encodeURIComponent(data.name).replace(/[!'()*]/g, escape)+"&lat="+data.geometry.location.lat+"&lng="+data.geometry.location.lng+"'>" + data.name + "</a> ";
        var html = html + "<span id='distance'>"+distance+"</span>";
-       var html = html + "</br>";
        return html;
      }
 
@@ -88,7 +87,7 @@ $(document).ready( function(){
 	 console.log(data);
 	 for (var key in data.results){
 	   $("#fakeEntry").before( restaurantEntry( data.results[key] ) );
-	 }	
+    }	
        }
      });
    }

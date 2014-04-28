@@ -42,11 +42,15 @@ else{
   <div class="row">
     <div class="col-md-8 phone-contain">
       <h1 id="restaurantName"></h1>
-      <div id="itemsList">
-	<div id="fakeEntry"></div>
-      </div> 
-      <div>
+      <div class="new-panel">
 	<a id="newDish" >Vote on a new dish</a>
+        <hr>
+        <h2>Dishes</h2>
+        <div id="itemsList">
+          <div id="fakeEntry"></div>
+        </div> 
+      <div>
+      </div>
       </div>
     </div>
   </div>

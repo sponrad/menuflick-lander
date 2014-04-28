@@ -15,12 +15,14 @@
         <input type="submit" id="loginButton" value="Sign In" />
       </form>
 
-
-
-      <button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button>
-      <button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button>
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
-      <button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button>
+      <nav>
+        <ul class="list-inline">
+          <li><button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button></li>
+          <li><button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button></li>
+          <li><button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button></li>
+          <li><button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button></li>
+        </ul>
+      </nav>
       <?php } else { ?>
 
       <img src="img/logo.jpg" class="img-responsive logo">
@@ -45,11 +47,6 @@
 <script src="js/script.js"></script>
 <script>
  $(document).ready( function(){
- 
-  $.ajax({
-  url: "http://mfbackend.appspot.com/json",
-  success: function(data){console.log(data)};
-  });
    $("#signupbutton").click( function(e){
      e.preventDefault();
      formdata = $("#signupform").serialize();

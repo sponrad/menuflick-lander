@@ -27,7 +27,10 @@ else{
 <div class="container">
   <div class="row">
     <div class="col-md-8 phone-contain">
-      <h1>Add Item Details and Vote</h1>
+      <h1><?= $restaurantName; ?></h1>
+      <div class="new-panel">
+      <h2 style="font-size: 16px; margin-top: 0;">What did you have?</h2>
+      <hr>
 
       <form id="addItemForm">
 	<input type="hidden" name="restaurantid" value=<?= $restaurantId; ?> />
@@ -36,18 +39,16 @@ else{
 	<input type="hidden" name="authtoken" value=<?= $authToken; ?> />
 	<input type="hidden" name="userid" value=<?= $userId; ?> />
 	
-	<h2><?= $restaurantName; ?></h2>
-	<br>
 
 	<div class="form-group>
-	  <label for="name">Dish Name</label>
-	  <input type="text" id="name" name="name" class="form-control" placeholder="Enter name of dish" />
+	  <label for="name" style="margin-bottom: 10px; display: block;">Dish Name</label>
+	  <input type="text" id="name" name="name" class="form-control" placeholder="Enter name of dish" style="border: 1px solid #ccc; box-shadow: none; background: #fff;" />
 	</div>
 
-	<br>
-	<input type="submit" id="addItemButton" value="Add Item" />
+	<input type="submit" class="btn btn-primary" id="addItemButton" value="Add Item" />
 
       </form>
+</div>
     </div>
   </div>
 </div>

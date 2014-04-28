@@ -26,9 +26,12 @@ if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) {
   </head>
   <body id="top" class="<?= basename($_SERVER['PHP_SELF'], ".php")?>">
     <?php if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { ?>
-    <button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button>
-    <button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button>
-    <button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button>
-    <button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button>
+    <nav>
+      <ul class="list-inline">
+        <li><button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button></li>
+        <li><button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button></li>
+        <li><button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button></li>
+        <li><button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button></li>
+      </ul>
+    </nav>
     <?php } ?>
-
