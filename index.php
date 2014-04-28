@@ -49,7 +49,7 @@
   $.ajax({
   url: "http://mfbackend.appspot.com/json",
   success: function(data){console.log(data)};
-  })
+  });
    $("#signupbutton").click( function(e){
      e.preventDefault();
      formdata = $("#signupform").serialize();
