@@ -47,24 +47,11 @@
 <script src="js/script.js"></script>
 <script>
  $(document).ready( function(){
+   //Dear Server,
+   // Wake Up !!
    $.ajax({
      url: "http://mfbackend.appspot.com/json",
-     success: function(data){ console.log(data); }
-   });
-   $("#signupbutton").click( function(e){
-     e.preventDefault();
-     formdata = $("#signupform").serialize();
-     $.post('http://mfbackend.appspot.com/json/signup',
-	    formdata,
-	    function(returndata){
-	 console.log(returndata);
-	 if returndata.response == 1 {
-	   alert("Successful signup, continue to login");
-	 }
-	 else {
-	   alert("Something went wrong");
-	 }
-       }, "json");
+     success: function(data){ console.log(data) }
    });
  });
 </script>
