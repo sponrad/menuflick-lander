@@ -113,6 +113,7 @@ $(document).ready( function(){
    });
 
    $("#voteButton").click( function(e){
+     $("#voteButton").attr('disabled', 'disabled').attr('value', 'Vote pending');
      e.preventDefault();
      dataToSend = $("#voteForm").serialize();
      $.ajax({
@@ -123,10 +124,7 @@ $(document).ready( function(){
        success: function(data){
 	 //do something
 	 if (data.response == 1){
-	   console.log("vote success");
-	   alert("Thanks for that swell vote, rating is now: " + data.rating);
-     console.log(restaurant);
-     window.location = 'http://menuflick.com/restaurants';
+	   window.location = 'http://menuflick.com/items?restaurantid=' + <?= $restaurantId; ?>;
 	 }
        }
      });
