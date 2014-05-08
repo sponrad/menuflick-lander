@@ -41,20 +41,10 @@ if ($data['response'] == 1){
   $_SESSION["authToken"] = $data['auth_token'];
   $_SESSION["userId"] = $data['user_dict']['user_id'];
 
-  header("Location: http://www.menuflick.com/feed");
+  header("Location: http://www.menuflick.com/restaurants");
 }
 else {
   header("Location: http://www.menuflick.com/");
 }
 
 ?>
-
-<?php include("header.php"); ?>
-<br><br><br>
-<form id="loginForm" action="/login" method="post">
-  <input type="text" name="username" placeholder="username" />
-  <input type="password" name="password" placeholder="password" /></br>
-  <input type="submit" id="loginButton" value="Login" />
-</form>
-
-<?php include("footer.php"); ?>

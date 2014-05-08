@@ -12,24 +12,23 @@ else {
 <?php include("header.php"); ?>
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-8 phone-contain">
-      <h1 id="userName">Profile</h1>
-      <div id="profileList">
-        <div id="isfollowing"></div>
+  <h1 id="userName">Profile</h1>
+  <div id="profileList">
+    <div id="isfollowing"></div>
 
-        <p>Following: <span id="following"></span></p>
-        <p>Followers: <span id="followers"></span></p>
-        <p>Reviews: <span id="reviews"></span></p>
+      <ul class="list-inline" style="font-size: 14px; color: #aaa;">
+        <li>Following: <span id="following"></span></li>
+        <li>Followers: <span id="followers"></span></li>
+        <li>Reviews: <span id="reviews"></span></li>
+      </ul>
 
-        <div id="reviewDiv">
-          <h2>Reviews</h2><br><br>
-          <div id="fakeReview"></div>
-        </div>
+      <div id="reviewDiv">
+        <h2>Your Reviews</h2>
+        <hr>
+        <div id="fakeReview"></div>
+      </div>
 
-    </div><!-- /end .panel -->
-    </div><!-- /end .col-md-8.phone-container -->
-  </div><!-- /end .row -->
+  </div><!-- /end .panel -->
 </div><!-- /end .container -->
 
 <script>

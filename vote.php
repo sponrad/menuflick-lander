@@ -14,6 +14,7 @@ if (isset($_GET['itemname'])){
 else{
   $itemName = NULL;
 }
+
 if (isset($_GET['restaurantname'])){
   $restaurantName = $_GET['restaurantname'];
 }
@@ -27,53 +28,57 @@ else{
 <div class="container">
   <div class="row">
     <div class="col-md-12 phone-contain">
-      <h1>Vote<?= " on ".$itemName; ?></h1>
+      <h1 class="vote-on">Vote<?= " on ".$itemName; ?></h1>
 
-      <form id="voteForm">
-	<input type="hidden" name="restaurantid" value=<?= $restaurantId; ?> />
-	<input type="hidden" name="itemid" value=<?= $itemId; ?> />
-	<input type="hidden" name="authtoken" value=<?= $authToken; ?> />
-	<input type="hidden" name="userid" value=<?= $userId; ?> />
-	<div class="radio-inline">
-	  <label>
-	    <input type="radio" name="rating" id="rating1" value="100" >
-	    Vote Up
-	  </label>
-	</div>
-	<div class="radio-inline">
-	  <label>
-	    <input type="radio" name="rating" id="rating2" value="50" checked>
-	    Meh
-	  </label>
-	</div>
-	<div class="radio-inline">
-	  <label>
-	    <input type="radio" name="rating" id="rating3" value="0" >
-	    Vote Down
-	  </label>
-	</div>
-	<div id="promptDiv" style="font-size: 22px;"></div>
-	<!-- 	<textarea placeholder="Write something if you must" name="description" id="description"></textarea> 
-	 -->
-	<br>
-	<input type="submit" id="voteButton" value="Vote" />
-      </form>
+      <div class="new-panel">
+        <form id="voteForm">
+          <input type="hidden" name="restaurantid" value=<?= $restaurantId; ?> />
+          <input type="hidden" name="itemid" value=<?= $itemId; ?> />
+          <input type="hidden" name="authtoken" value=<?= $authToken; ?> />
+          <input type="hidden" name="userid" value=<?= $userId; ?> />
 
-      <div id="reviewDiv">
-	<h2>Reviews of this Item:</h2><br><br>
-	<div id="fakeReview"></div>
-      </div>
 
-    </div>
-  </div>
-</div>
+          <div id="promptDiv" style="font-size: 22px;"></div>
+
+          <div class="btn-group vote-buttons" data-toggle="buttons" style="margin-bottom: 15px;">
+            <label class="btn btn-primary first-vote-btn">
+              <input type="radio" name="rating" id="rating1" value="100"> <span class="fa fa-smile-o"></span>
+            </label>
+            <label class="btn btn-primary second-vote-btn">
+              <input type="radio" name="rating" id="rating2" value="50"> <span class="fa fa-meh-o"></span>
+            </label>
+            <label class="btn btn-primary third-vote-btn">
+              <input type="radio" name="rating" id="rating3" value="0"> <span class="fa fa-frown-o"></span>
+            </label>
+          </div>
+
+
+          <input type="submit" id="voteButton" value="Vote" class="btn btn-primary btn-block" style="font-size: 20px;">
+        </form>
+
+        <div id="reviewDiv" style="margin-top: 50px;">
+          <h2 style="line-height: 26px;">What other people think of this item:</h2>
+          <hr>
+          <div id="fakeReview"></div>
+        </div>
+      </div><!-- /end .new-panel -->
+
+    </div><!-- /end .col-md-12 -->
+  </div><!-- /end .row -->
+</div><!-- /end .container -->
 
 <script>
 
 $(document).ready( function(){
 
+   $('#promptDiv input[type="text"]').css({'border': '1px solid red;'});
+
    item = "<?= $itemName; ?>";
    restaurant = "<?= $restaurantName; ?>";
+   lat = "<?= $lat; ?>";
+   lng = "<?= $lng; ?>";
+   console.log(lat);
+   console.log(lng);
 
    $.ajax({
      url: "http://mfbackend.appspot.com/json/getprompt",
@@ -120,6 +125,8 @@ $(document).ready( function(){
 	 if (data.response == 1){
 	   console.log("vote success");
 	   alert("Thanks for that swell vote, rating is now: " + data.rating);
+     console.log(restaurant);
+     window.location = 'http://menuflick.com/restaurants';
 	 }
        }
      });

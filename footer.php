@@ -15,10 +15,12 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/retina.min.js"></script>
+<script src="js/fastclick.js"></script>
+<script src="js/script.js"></script>
 
 <script>
  $(document).ready( function(){
-
+  FastClick.attach(document.body);
  });
 </script>
 

@@ -1,15 +1,8 @@
 <?php include("header.php"); ?>
-<?php
-
-?>
 <div class="container">
-  <div class="row">
-    <div class="col-md-6 phone-contain">
-      <h1>Feed</h1>
-      <div id="feedDiv" style="background: white;">
-	<div id="fakeItem">Loading&hellip;</div>
-      </div>
-    </div>
+  <h1>Feed</h1>
+  <div id="feedDiv" style="background: white;">
+    <div id="fakeItem">Loading&hellip;</div>
   </div>
 </div>
 

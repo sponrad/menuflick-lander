@@ -1,12 +1,8 @@
 <?php include("header.php"); ?>
 <div class="container">
-  <div class="row">
-    <div class="col-md-4 phone-contain">
-      <h1>Nearby Restaurants</h1>
-      <div id="restaurantsList">
-	<div id="fakeEntry">Loading&hellip;</div>
-      </div>
-    </div>
+  <h1>Nearby Menus</h1>
+  <div id="restaurantsList">
+    <div id="fakeEntry"><span id="loading">Loading&hellip;</span></div>
   </div>
 </div>
 
@@ -85,6 +81,7 @@ $(document).ready( function(){
        type: 'GET',
        success: function(data){
 	 console.log(data);
+        $('#loading').hide();
 	 for (var key in data.results){
 	   $("#fakeEntry").before( restaurantEntry( data.results[key] ) );
     }	

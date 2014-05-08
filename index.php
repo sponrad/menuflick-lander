@@ -1,43 +1,14 @@
-<?php include("header.php"); ?>
+<?php include("login-header.php"); ?>
 
   <div class="container text-center">
 
-      <?php 
-        if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { 
-        $userId = $_SESSION['userId'];
-        $authToken = $_SESSION['authToken']; 
-      ?>
       <img src="img/logo.jpg" class="img-responsive logo">
 
       <form id="loginForm" action="/login" method="post">
-        <input type="text" name="username" placeholder="username" />
-        <input type="password" name="password" placeholder="password" />
+        <input type="text" name="username" placeholder="username" autocapitalize="off" />
+        <input type="password" name="password" placeholder="password" autocapitalize="off" />
         <input type="submit" id="loginButton" value="Sign In" />
       </form>
-
-      <nav>
-        <ul class="list-inline">
-          <li><button id="logoutLink" onlcick="location.href='http://www.menuflick.com/logout'">Logout</button></li>
-          <li><button id="feedButton" onclick="location.href='http://www.menuflick.com/feed'">Feed</button></li>
-          <li><button id="menuButton" onclick="location.href='http://www.menuflick.com/restaurants'">Menu</button></li>
-          <li><button id="menuButton" onclick="location.href='http://www.menuflick.com/profile?profileid=<?= $userId; ?>'">Profile</button></li>
-        </ul>
-      </nav>
-      <?php } else { ?>
-
-      <img src="img/logo.jpg" class="img-responsive logo">
-
-      <div id="loginDiv">
-        <form id="loginForm" action="/login" method="post">
-          <input type="text" name="username" placeholder="username" />
-          <input type="password" name="password" placeholder="password" />
-          <input type="submit" id="loginButton" value="Sign In" />
-        </form>
-      </div>
-
-      <?php } ?>
-
-
 
     </div><!-- /end .container -->
 <a href="/signup" class="sign-up-cta">Sign Up</a>

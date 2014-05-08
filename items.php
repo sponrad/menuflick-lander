@@ -39,21 +39,16 @@ else{
 <?php include("header.php"); ?>
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-8 phone-contain">
-      <h1 id="restaurantName"></h1>
-      <div class="new-panel">
-	<a id="newDish" >Vote on a new dish</a>
-        <hr>
-        <h2>Dishes</h2>
-        <div id="itemsList">
-          <div id="fakeEntry"></div>
-        </div> 
-      <div>
-      </div>
-      </div>
-    </div>
-  </div>
+  <h1 id="restaurantName"></h1>
+
+  <div class="new-panel">
+    <a id="newDish" >Vote on a new dish</a>
+      <hr>
+      <h2>Dishes</h2>
+      <div id="itemsList"></div>
+      <div id="fakeEntry"></div>
+  </div> 
+
 </div>
 
 <script>
@@ -75,7 +70,7 @@ else{
      success: function(data){
        console.log(data);
 
-       $("#restaurantName").html( data.restaurantname );
+       $("#restaurantName").html( 'Menu for ' + data.restaurantname );
        $("#newDish").attr("href", "/votenew?restaurantid="+restaurantId+"&restaurantname="+encodeURIComponent(data.restaurantname).replace(/[!'()*]/g, escape));
 
        if (data.items.length > 0){
@@ -92,6 +87,7 @@ else{
 	   html += encodeURIComponent(data.restaurantname).replace(/[!'()*]/g, escape);
 	   html += "'>";
 	   html += data.items[key].name + ": " + data.items[key].rating;
+	   html += "%";
 	   html += "</a><br/>";
 	   $("#fakeEntry").before(html);
 	 }

@@ -25,31 +25,25 @@ else{
 <?php include("header.php"); ?>
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-8 phone-contain">
-      <h1><?= $restaurantName; ?></h1>
-      <div class="new-panel">
-      <h2 style="font-size: 16px; margin-top: 0;">What did you have?</h2>
-      <hr>
+  <h1><?= utf8_decode($restaurantName); ?></h1>
 
-      <form id="addItemForm">
-	<input type="hidden" name="restaurantid" value=<?= $restaurantId; ?> />
-	<input type="hidden" name="price" value=0 />
-	<input type="hidden" name="description" value=0 />
-	<input type="hidden" name="authtoken" value=<?= $authToken; ?> />
-	<input type="hidden" name="userid" value=<?= $userId; ?> />
-	
+  <div class="new-panel">
+    <form id="addItemForm">
+      <input type="hidden" name="restaurantid" value=<?= $restaurantId; ?> />
+      <input type="hidden" name="price" value=0 />
+      <input type="hidden" name="description" value=0 />
+      <input type="hidden" name="authtoken" value=<?= $authToken; ?> />
+      <input type="hidden" name="userid" value=<?= $userId; ?> />
+      
 
-	<div class="form-group>
-	  <label for="name" style="margin-bottom: 10px; display: block;">Dish Name</label>
-	  <input type="text" id="name" name="name" class="form-control" placeholder="Enter name of dish" style="border: 1px solid #ccc; box-shadow: none; background: #fff;" />
-	</div>
+      <div class="form-group vote-new-div">
+        <input type="text" id="name" name="name" class="form-control" placeholder="What did you have?">
+      </div>
 
-	<input type="submit" class="btn btn-primary" id="addItemButton" value="Add Item" />
+      <input type="submit" class="btn btn-primary btn-block" id="addItemButton" value="Add Item" style="margin-top: 25px;" />
 
-      </form>
-</div>
-    </div>
+    </form>
+
   </div>
 </div>
 
