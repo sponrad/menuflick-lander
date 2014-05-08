@@ -1,4 +1,9 @@
 <?php include("login-header.php"); ?>
+<?php 
+if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) { 
+    header( 'Location: http://www.menuflick.com/feed' ) ;
+}
+?>
 
   <div class="container text-center">
 
