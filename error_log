@@ -1910,3 +1910,1037 @@
 [07-May-2014 21:26:46 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
 [07-May-2014 21:29:29 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
 [07-May-2014 21:29:29 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:41:17 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:41:17 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:45:58 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 21:46:12 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:46:12 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:48:45 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:48:45 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:49:28 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:49:28 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:51:22 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:51:22 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:51:44 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:51:44 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 21:51:48 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[07-May-2014 21:51:48 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[07-May-2014 22:14:13 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:18:13 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:19:35 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:21:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[07-May-2014 22:21:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[07-May-2014 22:21:51 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[07-May-2014 22:21:59 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[07-May-2014 22:21:59 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[07-May-2014 22:21:59 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[07-May-2014 22:22:07 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:22:17 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:22:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[07-May-2014 22:22:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[07-May-2014 22:22:22 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[07-May-2014 22:22:24 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:22:29 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:26:49 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:27:50 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:27:56 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[07-May-2014 22:53:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[07-May-2014 22:53:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[07-May-2014 23:05:18 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 00:42:23 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 00:42:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 00:42:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 00:42:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 00:42:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 00:43:53 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 00:44:48 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 00:44:48 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 09:51:22 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 09:51:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 09:51:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 09:51:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 09:51:46 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 09:51:46 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[08-May-2014 09:51:46 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[08-May-2014 09:52:34 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:00:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:00:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 10:00:19 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 10:00:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:00:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 10:00:34 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:01:14 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 10:01:14 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 10:01:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:01:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 10:01:29 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 10:04:47 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:05:58 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 10:05:58 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 10:08:39 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:10:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:12:35 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 10:12:35 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 10:13:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:13:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 10:13:10 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 10:15:30 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:16:15 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 10:16:15 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 10:16:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:16:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 10:16:27 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 10:22:40 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 10:22:40 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 10:23:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:23:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 10:23:31 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 10:26:07 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:26:08 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:26:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:26:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 10:27:34 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:27:35 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:31:11 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:41:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:41:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 10:41:26 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:41:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 10:41:53 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 10:47:11 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 10:47:11 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 11:36:19 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 11:37:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 11:37:33 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 11:37:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 11:37:33 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 11:37:33 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 11:38:09 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 11:38:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 11:38:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 11:38:34 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 11:38:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 11:38:45 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[08-May-2014 11:38:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[08-May-2014 11:39:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 11:39:25 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 11:39:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 11:39:25 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 11:39:25 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 11:39:56 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 11:39:56 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 11:39:56 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 11:39:56 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 11:39:56 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 11:40:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 11:40:13 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 11:40:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 11:40:13 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 11:40:13 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 11:50:02 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 11:50:04 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 12:33:02 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 12:39:42 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 12:39:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 12:40:23 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 12:40:23 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 12:41:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 12:41:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 14:58:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 16:25:08 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 19:10:26 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 19:12:07 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 19:12:07 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 19:12:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:12:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 19:12:15 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 19:12:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:12:18 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 19:12:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 19:12:18 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 19:12:18 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 19:44:37 America/Chicago] PHP Notice:  Undefined index: username in /home/gjyvqzju/public_html/menuflick/login.php on line 11
+[08-May-2014 19:44:37 America/Chicago] PHP Notice:  Undefined index: password in /home/gjyvqzju/public_html/menuflick/login.php on line 12
+[08-May-2014 19:44:37 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 19:52:58 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 19:53:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 19:53:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[08-May-2014 19:53:09 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[08-May-2014 19:53:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 19:53:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[08-May-2014 19:53:12 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[08-May-2014 19:53:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 19:53:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 19:53:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[08-May-2014 19:53:14 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[08-May-2014 19:53:23 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:38:44 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:39:05 America/Chicago] PHP Notice:  Undefined index: username in /home/gjyvqzju/public_html/menuflick/login.php on line 11
+[08-May-2014 20:39:05 America/Chicago] PHP Notice:  Undefined index: password in /home/gjyvqzju/public_html/menuflick/login.php on line 12
+[08-May-2014 20:39:05 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:39:41 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:40:07 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:41:38 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:41:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:41:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:41:45 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:42:04 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:42:38 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 20:42:38 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 20:43:36 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:43:42 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:43:42 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:43:42 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:43:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:43:45 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[08-May-2014 20:43:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[08-May-2014 20:43:55 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:44:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:44:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:44:12 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:44:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:44:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:44:13 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:44:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:44:14 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 20:44:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 20:44:14 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 20:44:14 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 20:44:31 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:44:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:44:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:44:40 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:44:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:44:43 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[08-May-2014 20:44:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[08-May-2014 20:45:59 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:46:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:46:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:46:13 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:46:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:46:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 20:46:45 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:46:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:46:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:46:51 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:47:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:47:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:47:43 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:47:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:47:44 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[08-May-2014 20:47:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[08-May-2014 20:47:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:47:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[08-May-2014 20:48:54 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:49:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:49:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[08-May-2014 20:49:02 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[08-May-2014 20:49:12 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[08-May-2014 20:49:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 20:49:45 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 20:49:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 20:49:45 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 20:49:45 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 21:04:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 21:04:01 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[08-May-2014 21:04:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[08-May-2014 21:04:01 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[08-May-2014 21:04:01 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[08-May-2014 21:11:47 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[08-May-2014 21:16:50 America/Chicago] PHP Notice:  Undefined index: location in /home/gjyvqzju/public_html/menuflick/searchapi.php on line 7
+[09-May-2014 00:24:57 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 00:24:57 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[09-May-2014 00:24:57 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[09-May-2014 13:41:13 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 13:41:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 13:41:23 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 13:41:23 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 13:41:26 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 13:41:26 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 13:41:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 13:41:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[09-May-2014 13:41:34 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[09-May-2014 13:41:35 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 13:41:35 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[09-May-2014 13:41:35 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[09-May-2014 13:41:48 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 14:06:06 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 16:53:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 18:17:10 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 18:17:54 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 19:49:29 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 19:49:42 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[09-May-2014 19:49:42 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[09-May-2014 19:50:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 19:50:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[09-May-2014 19:50:11 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[09-May-2014 19:50:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 19:50:14 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[09-May-2014 19:50:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[09-May-2014 19:50:14 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[09-May-2014 19:50:14 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[09-May-2014 19:50:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 19:50:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[09-May-2014 19:50:22 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[09-May-2014 23:52:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 23:52:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:52:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[09-May-2014 23:52:40 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[09-May-2014 23:52:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:52:44 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[09-May-2014 23:52:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[09-May-2014 23:52:44 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[09-May-2014 23:52:44 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[09-May-2014 23:53:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:53:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 23:53:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:53:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 23:53:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:54:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:54:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[09-May-2014 23:54:36 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[09-May-2014 23:54:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:54:43 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[09-May-2014 23:54:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[09-May-2014 23:54:43 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[09-May-2014 23:54:43 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[09-May-2014 23:55:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:55:03 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:55:03 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 23:55:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:55:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 23:55:06 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:55:06 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[09-May-2014 23:55:11 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 23:55:36 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 23:59:03 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[09-May-2014 23:59:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:59:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[09-May-2014 23:59:11 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[09-May-2014 23:59:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[09-May-2014 23:59:19 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[09-May-2014 23:59:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[09-May-2014 23:59:19 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[09-May-2014 23:59:19 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 00:04:47 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 00:04:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 00:05:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 00:05:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 00:05:36 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 00:05:38 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:26:29 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 01:26:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:26:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[10-May-2014 01:26:44 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[10-May-2014 01:27:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:27:00 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[10-May-2014 01:27:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[10-May-2014 01:27:00 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[10-May-2014 01:27:00 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 01:27:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 01:27:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:27:44 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[10-May-2014 01:27:44 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[10-May-2014 01:27:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:27:50 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[10-May-2014 01:27:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[10-May-2014 01:27:50 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[10-May-2014 01:27:50 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 01:30:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:30:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 01:30:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:30:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 01:30:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:30:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 01:33:45 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 01:33:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:33:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[10-May-2014 01:33:51 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[10-May-2014 01:33:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:33:54 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[10-May-2014 01:33:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[10-May-2014 01:34:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 01:34:02 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[10-May-2014 01:34:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[10-May-2014 01:34:02 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[10-May-2014 01:34:02 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 17:13:44 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 17:14:36 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[10-May-2014 17:14:36 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 19:23:53 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 19:24:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 19:24:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[10-May-2014 19:24:04 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[10-May-2014 19:24:07 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 19:24:07 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[10-May-2014 19:24:07 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[10-May-2014 19:24:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 19:24:15 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[10-May-2014 19:24:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[10-May-2014 19:24:15 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[10-May-2014 19:24:15 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 19:24:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 19:24:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 19:24:35 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 19:24:35 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 19:24:43 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 19:30:24 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 21:42:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 21:42:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 21:43:14 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 21:56:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 21:56:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[10-May-2014 22:28:58 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[10-May-2014 22:29:53 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[10-May-2014 22:29:53 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[10-May-2014 22:37:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[10-May-2014 22:37:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[10-May-2014 22:37:53 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[11-May-2014 10:34:23 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 11:55:24 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 11:55:51 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 11:55:52 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 11:59:28 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 11:59:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 11:59:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 11:59:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 12:01:58 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 12:01:58 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 12:46:35 America/Chicago] PHP Notice:  Undefined index: username in /home/gjyvqzju/public_html/menuflick/login.php on line 11
+[11-May-2014 12:46:35 America/Chicago] PHP Notice:  Undefined index: password in /home/gjyvqzju/public_html/menuflick/login.php on line 12
+[11-May-2014 12:46:35 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 13:14:48 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 13:14:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:14:58 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:14:58 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:17:39 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:17:39 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:18:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:18:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[11-May-2014 13:18:34 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[11-May-2014 13:18:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:18:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:22:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:22:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:22:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:24:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:24:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:24:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:24:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:24:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 13:24:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 13:25:12 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 14:57:07 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[11-May-2014 14:57:07 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[11-May-2014 16:18:50 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 18:11:27 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[11-May-2014 18:11:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:12:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:12:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 18:12:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:12:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 18:26:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:26:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 18:26:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:26:13 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 18:26:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:26:41 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:26:41 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[11-May-2014 18:26:41 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[11-May-2014 18:26:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:26:49 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[11-May-2014 18:26:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[11-May-2014 18:26:49 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[11-May-2014 18:26:49 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[11-May-2014 18:26:56 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 18:26:56 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 19:33:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 19:33:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[11-May-2014 19:34:16 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[11-May-2014 19:34:16 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[12-May-2014 14:35:06 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[12-May-2014 14:35:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[12-May-2014 14:35:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[12-May-2014 14:35:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[12-May-2014 14:49:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[12-May-2014 14:49:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[12-May-2014 15:11:36 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[12-May-2014 15:11:52 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[12-May-2014 15:12:25 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[12-May-2014 15:12:25 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[12-May-2014 15:13:46 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[12-May-2014 15:13:46 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[12-May-2014 15:13:46 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[12-May-2014 22:03:19 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[12-May-2014 22:04:08 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[12-May-2014 22:04:08 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[12-May-2014 22:04:08 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[12-May-2014 22:04:15 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[13-May-2014 23:31:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[13-May-2014 23:31:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[13-May-2014 23:31:14 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[14-May-2014 02:06:37 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[14-May-2014 21:57:01 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[14-May-2014 23:54:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[14-May-2014 23:54:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[14-May-2014 23:54:28 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[14-May-2014 23:54:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[14-May-2014 23:54:29 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[14-May-2014 23:54:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[14-May-2014 23:54:30 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[14-May-2014 23:54:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[14-May-2014 23:54:30 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[14-May-2014 23:54:30 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[14-May-2014 23:54:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[14-May-2014 23:54:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[14-May-2014 23:54:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[14-May-2014 23:54:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[15-May-2014 05:55:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[15-May-2014 11:47:49 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[15-May-2014 11:47:58 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[15-May-2014 11:47:58 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[15-May-2014 11:47:58 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[15-May-2014 11:48:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[15-May-2014 11:48:02 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[15-May-2014 11:48:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[15-May-2014 11:48:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[15-May-2014 11:48:14 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[15-May-2014 11:48:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[15-May-2014 11:48:14 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[15-May-2014 11:48:14 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[15-May-2014 11:49:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[15-May-2014 11:49:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[15-May-2014 22:10:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[15-May-2014 22:10:56 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[15-May-2014 22:11:41 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[15-May-2014 22:11:41 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[15-May-2014 22:19:26 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[15-May-2014 23:30:37 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[15-May-2014 23:30:39 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 00:40:56 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 00:41:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 00:41:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[16-May-2014 00:41:00 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[16-May-2014 00:41:06 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 00:41:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 00:41:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[16-May-2014 09:26:40 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[16-May-2014 12:26:03 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[16-May-2014 12:26:03 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[16-May-2014 17:31:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[16-May-2014 17:33:23 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[16-May-2014 17:37:29 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[16-May-2014 20:51:02 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[16-May-2014 20:51:02 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[16-May-2014 20:51:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 20:51:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[16-May-2014 20:51:10 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[16-May-2014 20:51:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 20:51:14 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[16-May-2014 20:51:14 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[16-May-2014 20:51:14 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[16-May-2014 20:51:14 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[16-May-2014 20:51:58 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[16-May-2014 20:51:58 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[16-May-2014 21:01:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[16-May-2014 21:01:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[16-May-2014 21:01:00 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[16-May-2014 21:19:09 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[16-May-2014 21:19:50 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[16-May-2014 21:19:50 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[16-May-2014 22:23:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 11:44:35 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 11:44:43 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 11:44:48 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 11:44:56 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 11:45:20 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:45:20 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:45:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:45:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 11:45:34 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 11:45:47 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:45:47 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:45:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:45:49 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[17-May-2014 11:45:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[17-May-2014 11:45:57 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:45:57 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 11:45:57 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 11:45:57 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:45:57 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:46:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:46:48 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[17-May-2014 11:46:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[17-May-2014 11:46:52 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:46:52 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 11:46:52 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 11:46:52 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:46:52 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:47:35 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:47:35 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:48:17 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:48:17 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:48:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:48:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 11:48:49 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 11:48:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:48:54 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 11:48:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 11:48:54 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:48:54 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:48:55 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:48:55 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 11:48:55 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 11:48:55 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:48:55 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:49:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:49:15 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 11:49:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 11:49:15 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:49:15 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 11:49:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:49:18 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[17-May-2014 11:49:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[17-May-2014 11:49:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:49:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 11:49:19 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 11:49:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:49:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 11:49:20 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 11:49:24 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 11:49:24 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 11:49:24 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 11:49:24 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 11:49:24 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 12:14:06 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 12:14:41 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 12:16:27 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 12:16:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:16:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:16:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 12:17:04 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 12:17:07 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 12:17:26 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:26 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 12:17:26 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 12:17:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 12:17:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 12:17:33 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 12:17:35 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:17:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 12:17:50 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 12:20:23 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 12:36:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 12:36:51 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 12:36:51 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 12:36:51 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 12:36:51 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:01:13 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 13:01:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:01:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 13:01:30 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 13:01:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:01:33 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[17-May-2014 13:01:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[17-May-2014 13:01:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:01:48 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 13:01:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 13:01:48 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:01:48 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:01:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:01:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:01:54 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 13:01:54 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 13:02:05 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:02:05 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[17-May-2014 13:02:05 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[17-May-2014 13:02:13 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:02:13 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:02:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:02:40 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 13:02:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 13:02:40 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:02:40 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:02:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:02:53 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 13:02:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 13:02:53 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:02:53 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:03:00 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:03:00 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:03:20 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:03:20 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:05:09 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 13:05:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:05:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 13:05:27 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 13:05:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:05:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 13:05:37 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:05:37 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 13:05:41 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:05:41 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 13:05:50 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 13:06:54 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 13:07:24 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:07:24 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:07:38 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:07:38 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 13:07:38 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 13:07:52 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:07:52 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:07:58 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:07:58 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:08:02 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:08:02 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:08:45 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 13:11:20 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:11:20 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:11:43 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:11:43 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:13:07 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:13:07 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:13:54 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:13:54 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:14:16 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 13:14:16 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 13:14:37 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 13:14:37 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 13:14:37 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 15:58:35 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 17:25:16 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 18:15:16 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[17-May-2014 18:15:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:15:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:15:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[17-May-2014 18:15:31 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[17-May-2014 18:15:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:15:34 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[17-May-2014 18:15:34 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[17-May-2014 18:15:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:15:43 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[17-May-2014 18:15:43 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[17-May-2014 18:15:43 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[17-May-2014 18:15:43 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[17-May-2014 18:18:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:18:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 18:19:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:19:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 18:19:21 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:19:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:19:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 18:33:06 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:33:06 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 18:39:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[17-May-2014 18:39:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[17-May-2014 19:39:11 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 01:02:29 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 02:09:26 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 12:45:09 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 12:45:58 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 12:45:58 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 13:07:53 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 15:11:02 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 16:12:35 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 16:12:35 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 16:34:37 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 16:34:37 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[18-May-2014 16:34:37 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[18-May-2014 19:52:53 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:52:53 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:53:17 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:53:17 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:53:22 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:53:22 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:53:27 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:53:27 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:54:55 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:54:55 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:56:00 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:56:00 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:56:39 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:56:39 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 19:56:39 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 19:56:39 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:00:21 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 22:00:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:00:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[18-May-2014 22:00:36 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[18-May-2014 22:00:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:00:53 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[18-May-2014 22:00:53 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[18-May-2014 22:01:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:01:11 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[18-May-2014 22:01:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[18-May-2014 22:01:11 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:01:11 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:31:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:31:33 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[18-May-2014 22:31:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[18-May-2014 22:31:33 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:31:33 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:34:57 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 22:38:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:38:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[18-May-2014 22:38:11 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[18-May-2014 22:38:16 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:38:16 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[18-May-2014 22:38:16 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[18-May-2014 22:38:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:38:31 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[18-May-2014 22:38:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[18-May-2014 22:38:31 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:38:31 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:39:14 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 22:39:23 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:39:23 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:39:31 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:39:31 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:39:41 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:39:41 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:39:45 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 22:39:48 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:39:48 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:39:48 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[18-May-2014 22:40:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:40:09 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[18-May-2014 22:40:09 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[18-May-2014 22:40:51 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:40:51 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:41:02 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:41:02 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:41:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:41:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[18-May-2014 22:41:30 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[18-May-2014 22:41:37 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:41:37 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:41:58 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:41:58 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:43:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:43:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[18-May-2014 22:43:27 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[18-May-2014 22:43:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[18-May-2014 22:43:31 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[18-May-2014 22:43:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[18-May-2014 22:43:31 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[18-May-2014 22:43:31 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[18-May-2014 22:45:15 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[19-May-2014 00:31:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 00:31:12 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[19-May-2014 00:31:12 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[19-May-2014 00:31:12 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[19-May-2014 00:31:12 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[19-May-2014 10:19:47 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 10:19:47 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[19-May-2014 13:48:47 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[19-May-2014 13:48:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 13:53:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 13:53:45 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[19-May-2014 13:58:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 13:58:17 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[19-May-2014 13:58:22 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 14:01:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 14:01:04 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[19-May-2014 14:01:04 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[19-May-2014 14:05:56 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[19-May-2014 14:09:31 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[19-May-2014 14:23:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 14:23:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[19-May-2014 14:33:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[19-May-2014 14:33:18 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[19-May-2014 18:18:28 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[19-May-2014 18:56:27 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[19-May-2014 21:58:00 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[20-May-2014 22:26:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[20-May-2014 22:26:27 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[20-May-2014 22:26:27 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[20-May-2014 22:26:27 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[20-May-2014 22:26:27 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[20-May-2014 22:26:39 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[20-May-2014 22:26:39 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[20-May-2014 22:26:39 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[20-May-2014 22:26:39 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[20-May-2014 22:26:39 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[20-May-2014 22:26:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[20-May-2014 22:26:40 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[20-May-2014 22:26:40 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[20-May-2014 22:26:56 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[21-May-2014 09:57:52 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[21-May-2014 15:10:05 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[22-May-2014 11:51:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 11:51:32 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[22-May-2014 11:51:32 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[22-May-2014 11:51:32 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[22-May-2014 11:51:32 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[22-May-2014 18:49:36 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[22-May-2014 18:49:40 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[22-May-2014 21:30:13 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[22-May-2014 21:30:15 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[22-May-2014 21:30:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:30:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[22-May-2014 21:30:19 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[22-May-2014 21:30:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:30:31 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[22-May-2014 21:30:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[22-May-2014 21:30:31 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[22-May-2014 21:30:31 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[22-May-2014 21:30:35 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[22-May-2014 21:30:35 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[22-May-2014 21:30:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:30:36 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/votenew.php on line 35
+[22-May-2014 21:30:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/votenew.php on line 36
+[22-May-2014 21:30:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:30:48 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/vote.php on line 37
+[22-May-2014 21:30:48 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/vote.php on line 38
+[22-May-2014 21:30:48 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[22-May-2014 21:30:48 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[22-May-2014 21:31:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:31:11 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[22-May-2014 21:31:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:31:20 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[22-May-2014 21:31:23 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[22-May-2014 21:31:32 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[22-May-2014 21:31:32 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[22-May-2014 21:31:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:31:49 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[22-May-2014 21:31:49 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[22-May-2014 21:32:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[22-May-2014 21:32:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[22-May-2014 21:32:36 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[23-May-2014 15:13:43 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 15:31:03 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 16:54:41 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 21:13:00 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 21:13:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[23-May-2014 21:13:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[23-May-2014 21:13:10 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[23-May-2014 21:13:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[23-May-2014 21:13:15 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[23-May-2014 21:13:21 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[23-May-2014 21:13:21 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[23-May-2014 21:13:25 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 22:53:24 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 22:54:14 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[23-May-2014 22:54:14 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[23-May-2014 22:54:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[23-May-2014 22:54:36 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[23-May-2014 22:54:36 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[23-May-2014 22:54:43 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 22:54:51 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 22:55:00 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[23-May-2014 22:55:00 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[23-May-2014 22:55:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 22:55:45 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[23-May-2014 23:08:16 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[24-May-2014 12:10:59 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[24-May-2014 12:11:39 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[24-May-2014 12:11:39 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[24-May-2014 12:12:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[24-May-2014 12:12:50 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[24-May-2014 12:12:50 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[24-May-2014 12:24:08 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[24-May-2014 12:24:08 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[24-May-2014 12:24:08 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[24-May-2014 16:04:49 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[24-May-2014 17:34:02 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[24-May-2014 21:39:41 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[24-May-2014 21:39:42 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[24-May-2014 21:39:47 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[24-May-2014 21:39:47 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[24-May-2014 21:40:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[24-May-2014 21:40:00 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[24-May-2014 21:40:03 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[24-May-2014 21:40:03 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[25-May-2014 14:38:31 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[25-May-2014 14:39:19 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 10:39:19 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 10:39:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[26-May-2014 10:39:25 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[26-May-2014 10:39:25 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[26-May-2014 10:39:31 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 12:42:27 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 13:28:10 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 13:28:26 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 13:28:42 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[26-May-2014 15:27:35 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[27-May-2014 00:31:41 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[28-May-2014 18:38:46 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[28-May-2014 18:38:53 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[29-May-2014 22:46:21 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[29-May-2014 22:46:52 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[29-May-2014 22:46:52 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[29-May-2014 22:47:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[29-May-2014 22:47:28 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[29-May-2014 22:47:28 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[30-May-2014 22:05:13 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[30-May-2014 22:05:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[30-May-2014 22:05:33 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[30-May-2014 22:05:33 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[30-May-2014 22:05:39 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[30-May-2014 22:06:01 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[30-May-2014 22:06:01 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[30-May-2014 22:07:54 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[30-May-2014 22:09:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[30-May-2014 22:09:19 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[30-May-2014 22:09:19 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[31-May-2014 16:24:39 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[01-Jun-2014 02:43:16 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[01-Jun-2014 02:43:58 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[01-Jun-2014 11:44:31 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[01-Jun-2014 11:44:48 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[01-Jun-2014 11:45:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[01-Jun-2014 11:45:30 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[01-Jun-2014 11:45:30 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[01-Jun-2014 11:45:36 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[01-Jun-2014 11:45:55 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[01-Jun-2014 11:45:55 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[01-Jun-2014 11:46:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[01-Jun-2014 11:46:31 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/items.php on line 60
+[01-Jun-2014 11:46:31 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/items.php on line 61
+[02-Jun-2014 00:09:57 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[02-Jun-2014 00:09:57 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[02-Jun-2014 22:51:32 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[02-Jun-2014 23:27:34 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[04-Jun-2014 15:13:09 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 12:48:43 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 12:49:22 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 12:49:33 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 12:50:25 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 12:50:39 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[05-Jun-2014 12:50:39 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[05-Jun-2014 13:06:23 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[05-Jun-2014 13:06:23 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[05-Jun-2014 13:06:46 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[05-Jun-2014 13:06:46 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/profile.php on line 40
+[05-Jun-2014 13:06:46 America/Chicago] PHP Notice:  Undefined variable: authToken in /home/gjyvqzju/public_html/menuflick/profile.php on line 41
+[05-Jun-2014 14:20:47 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 14:21:20 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[05-Jun-2014 14:21:20 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[05-Jun-2014 16:46:03 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 16:46:05 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[05-Jun-2014 17:13:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[05-Jun-2014 17:13:10 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[05-Jun-2014 17:16:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/header.php on line 35
+[05-Jun-2014 17:16:01 America/Chicago] PHP Notice:  Undefined variable: userId in /home/gjyvqzju/public_html/menuflick/feed.php on line 12
+[05-Jun-2014 18:50:16 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 20:32:40 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 21:08:16 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 21:08:35 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 21:08:53 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[05-Jun-2014 21:08:53 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[05-Jun-2014 21:09:10 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/gjyvqzju/public_html/menuflick/login.php on line 25
+[05-Jun-2014 21:09:18 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[05-Jun-2014 21:09:18 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79
+[05-Jun-2014 21:10:47 America/Chicago] PHP Notice:  Undefined variable: lat in /home/gjyvqzju/public_html/menuflick/vote.php on line 78
+[05-Jun-2014 21:10:47 America/Chicago] PHP Notice:  Undefined variable: lng in /home/gjyvqzju/public_html/menuflick/vote.php on line 79

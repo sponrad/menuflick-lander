@@ -17,7 +17,7 @@ if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) {
 
 </div><!-- /end .container -->
 
-<div class="container text-center">
+<!-- <div class="container text-center">
   <style type = "text/css" scoped>
    div{
      font-size: 20px;
@@ -46,7 +46,7 @@ if ( isset($_SESSION['authToken']) && isset($_SESSION['userId']) ) {
   <div>
     <span id="dish" class="box">The What you ate</span> at <span id="restaurant" class="box">Where you ate</span> was completely <span id="creative1" class="box">creative</span> but also <span id="creative2" class="box">creative</span>
   </div>
-</div>
+</div> -->
 
 <a href="/signup" class="sign-up-cta">Sign Up</a>
 
